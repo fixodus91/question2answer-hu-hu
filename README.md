@@ -15,5 +15,6 @@ It's not likely that we'd do frequent updates, but if we do a round of fixes I'l
 If you find some mistakes in the translations I appreciate if you send a pull request for them.
 
 ## Thanks
-To the [Question2Answer project](https://www.question2answer.org/) for writing this great piece of software.
-To my company [CodeBerry](https://codeberryschool.com) that did the translations and wanted to give back to the community by sharing it.
+
+- To the [Question2Answer project](https://www.question2answer.org/) for writing this great piece of software.
+- To my company [CodeBerry](https://codeberryschool.com) that did the translations and wanted to give back to the community by sharing it.
